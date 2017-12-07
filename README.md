@@ -8,8 +8,19 @@
 There is a dependency on D3.js and Scrollama.js
 Coming soon, annotations with d3-annotation.js
 
-You must include the [d3 library](http://d3js.org/) before including the annotation file. Then you can add the compiled js file to your website
+####Scrollama
+This is a new library; I included it directly here but should change code a bit soon to use NPM
 
+- [Scrollama repo](https://github.com/russellgoldenberg/scrollama)
+
+```sh
+npm install scrollama
+```
+
+- 
+
+####d3-annotation
+You must include the [d3 library](http://d3js.org/) before including the annotation file. Then you can add the compiled js file to your website
 
 - [Unminified](https://github.com/susielu/d3-annotation/blob/master/d3-annotation.js)
 - [Minified](https://github.com/susielu/d3-annotation/blob/master/d3-annotation.min.js)
