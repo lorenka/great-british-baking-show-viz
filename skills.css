@@ -1,0 +1,65 @@
+/*.scaling-svg-container {
+ position: relative; 
+ height: 0; 
+ width: 100%; 
+ padding: 0;
+ padding-top: 20px; 
+ padding-bottom: 100%; 
+}
+.scaling-svg {
+ position: absolute; 
+ height: 100%; 
+ width: 100%; 
+ left: 0; 
+ top: 0;
+}*/
+
+    .link {
+        fill: none;
+        stroke: #CCC;
+        stroke-opacity: 0.4;
+        stroke-width: 1px;
+    }
+    .hidelink {
+        display: none;
+    }
+
+    text {
+        font-family: "Arial", Gadget, sans-serif;
+        fill: #000000;
+        font-size: 14px;
+    }
+
+    .xAxis .tick text{
+        fill: black;
+    }
+    .grid .tick line{
+        stroke: grey;
+        stroke-dasharray: 5, 10;
+        opacity: 0.7;
+    }
+    .grid path{
+        stroke-width: 0;
+    }
+
+    .node circle {
+        fill: #555;
+    }
+    .node--internal circle {
+        fill: #555;
+    }
+    .node--internal text {
+        font-size: 32px;
+        font-family: 'Sacramento', serif;
+        font-weight:strong;
+    }
+    .node--leaf text {
+        fill: black;
+    }
+    .ballG text {
+        fill: white;
+    }
+    .shadow {
+        -webkit-filter: drop-shadow( -1.5px -1.5px 1.5px #000 );
+        filter: drop-shadow( -1.5px -1.5px 1.5px #000 );
+    }

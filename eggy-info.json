@@ -1,0 +1,69 @@
+{
+ "name": "damnlargeeggy",
+ "children": [
+  {
+   "name": "EggInfo",
+   "children": [
+    {
+     "name": "heavyweights",
+     "children": [
+      {"name": "Charlotte Royale", "size": 14},
+      {"name": "Spanish Windtorte", "size": 12},
+      {"name": "Floating Islands with Spun Sugar", "size": 12},
+      {"name": "Princesstarta", "size": 10},
+      {"name": "Schichttorte", "size": 10},
+      {"name": "Tennis Cake", "size": 10}
+     ]
+    },
+    {
+     "name": "middle",
+     "children": [
+      {"name": "Marjolaine", "size":8},
+      {"name": "Egg Custard Tart", "size":8},
+      {"name": "Choux Buns Religieuse", "size":8},
+      {"name": "French Classic Tuiles", "size":7},
+      {"name": "Savarin with Chantilly Cream", "size": 6},
+      {"name": "Frosted Walnut Cake", "size": 6},
+      {"name": "Chocolate Souffles", "size": 6},
+      {"name": "Lemon Tartlets", "size": 5},
+      {"name": "Dampfnudel", "size": 5}
+     ]
+    },
+    {
+     "name": "lightweight",
+     "children": [
+      {"name": "Jumble Biscuits", "size": 4},
+      {"name": "Victoria Sandwich", "size": 4},
+      {"name": "Mokatines", "size": 4},
+      {"name": "Tiramisu Cake", "size": 4},
+      {"name": "Mini Victoria Sponge Cakes", "size": 3},
+      {"name": "Cherry Cake", "size": 3},
+      {"name": "Gluten-free Pita Bread", "size": 3},
+      {"name": "Lacey Pancakes", "size": 2},
+      {"name": "Bakewell Tart", "size": 2},
+      {"name": "Povitica", "size": 2},
+      {"name": "English Muffins", "size": 1},
+      {"name": "Apricot Couronne", "size": 1},
+      {"name": "Mini Pear Pies", "size": 1},
+      {"name": "Tea Time Scones", "size": 1},
+      {"name": "Jaffa Cake", "size": 1}
+     ]
+    },
+    {
+     "name": "no eggs",
+     "children": [
+      {"name": "Kouign Amann", "size": 0.1},
+      {"name": "Ciabatta", "size": 0.1},
+      {"name": "Florentines", "size": 0.1},
+      {"name": "Pretzels", "size": 0.1},
+      {"name": "Raspberry Mille-Feuille", "size": 0.1},
+      {"name": "Arlettes", "size": 0.1},
+      {"name": "Fougasse", "size": 0.1},
+      {"name": "Viennese Whirls", "size": 0.1},
+      {"name": "French Baguette", "size": 0.1}
+     ]
+    } 
+   ]
+  }
+ ]
+}
